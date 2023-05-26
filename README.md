@@ -1,17 +1,10 @@
 # KODLUYORUZ İLK REPO
 
-
-
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-
-
 
 # KODLUYORUZ
 
  Bu repo [kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-
-![github](C:\Users\HP GAMING\Pictures\Screenshots\Ekran Görüntüsü (1).png)
-
 
 ## INSTALLATİON
 
